@@ -13,8 +13,8 @@
 
         versions = {
           gpu-screen-recorder = {
-            version = "5.12.3";
-            hash = "sha256-ZrSD+RCnHQszIMqah8+LFvl8oNsdqzJBhMfFqHYgO90=";
+            version = "5.12.5";
+            hash = "sha256-Mge++XbRMPjfRl9CkDBOIm+Czgwia2qMuXVuYxbhW3k=";
           };
 
           gpu-screen-recorder-notification = {
@@ -23,8 +23,8 @@
           };
 
           gpu-screen-recorder-ui = {
-            version = "1.10.7";
-            hash = "sha256-hkQEXA5XhlUqqnR93owEQdwB0WeDlx+ywiqkfwipRw4=";
+            version = "1.10.8";
+            hash = "sha256-WabpxE9n4ojYwJgWM6q888dMEnZyePoHXCpYLs77Zes=";
           };
         };
 
