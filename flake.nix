@@ -118,7 +118,7 @@
           snapshotName = "gpu-screen-recorder-ui";
           version = versions.gpu-screen-recorder-ui.version;
           hash = versions.gpu-screen-recorder-ui.hash;
-          description = "GTK3 graphical interface for GPU Screen Recorder";
+          description = "UI for GPU Screen Recorder";
 
           extraNativeBuildInputs = with pkgs; [
             gtk3
