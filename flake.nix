@@ -23,8 +23,8 @@
           };
 
           gpu-screen-recorder-ui = {
-            version = "1.10.8";
-            hash = "sha256-WabpxE9n4ojYwJgWM6q888dMEnZyePoHXCpYLs77Zes=";
+            version = "1.10.9";
+            hash = "sha256-jYkSiKtoi0yRau7+xOzrePoxdpEm0Uagft3k6t5Ov4g=";
           };
         };
 
@@ -118,7 +118,7 @@
           snapshotName = "gpu-screen-recorder-ui";
           version = versions.gpu-screen-recorder-ui.version;
           hash = versions.gpu-screen-recorder-ui.hash;
-          description = "UI for GPU Screen Recorder";
+          description = "GTK3 graphical interface for GPU Screen Recorder";
 
           extraNativeBuildInputs = with pkgs; [
             gtk3
