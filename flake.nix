@@ -89,6 +89,7 @@
             vulkan-headers
             wayland
             egl-wayland
+            vulkan
           ];
 
           mesonFlags = [ "-Dsystemd=true" ];
