@@ -13,18 +13,18 @@
 
         versions = {
           gpu-screen-recorder = {
-            version = "5.12.5";
-            hash = "sha256-Mge++XbRMPjfRl9CkDBOIm+Czgwia2qMuXVuYxbhW3k=";
+            version = "5.13.6";
+            hash = "sha256-8jOR2YWqYeskwRTuMeiRGa4LuvmV57S5qAYTNcNAvME=";
           };
 
           gpu-screen-recorder-notification = {
-            version = "1.1.1";
-            hash = "sha256-GafVaB+HpJ1jayRxxNLZO0U5sFO8N6nDFZi1pEQYo0Y=";
+            version = "1.3.0";
+            hash = "sha256-qCQmsNr8y+UUF/jmnyUANRcCv+GqlCWiGzGgE3y45EA=";
           };
 
           gpu-screen-recorder-ui = {
-            version = "1.10.9";
-            hash = "sha256-jYkSiKtoi0yRau7+xOzrePoxdpEm0Uagft3k6t5Ov4g=";
+            version = "1.12.0";
+            hash = "sha256-UUvHYWJtmsDIrSoDZpLfkHO/LUz61W94hF8ohOcu4Yg=";
           };
         };
 
