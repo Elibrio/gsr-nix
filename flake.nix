@@ -87,9 +87,9 @@
             dbus
             libjpeg_turbo
             vulkan-headers
+            vulkan-loader
             wayland
             egl-wayland
-            vulkan-loader
           ];
 
           mesonFlags = [ "-Dsystemd=true" ];
@@ -108,9 +108,11 @@
             libxrandr
             libxrender
             libxext
+            libxkbcommon
             wayland
             wayland-scanner
             egl-wayland
+            pango
           ];
         };
 
@@ -142,6 +144,7 @@
             libpulseaudio
             libdrm
             libcap
+            libxkbcommon
             wayland
             wayland-scanner
             egl-wayland
